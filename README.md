@@ -42,7 +42,3 @@ O **TechFreela** faz parte dos meus projetos de estudo em Python, buscando trans
 **Mávio Pereira Barbosa**
 
 Estudante de Ciência da Computação, interessado em desenvolvimento, dados e tecnologia.
-
----
-
-⭐ Projeto desenvolvido para aprendizado e prática de Python.
